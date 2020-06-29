@@ -40,10 +40,7 @@ RGB LED | 1個
 <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
 
 ### 5.demo
-<video src="https://www.youtube.com/watch?v=B_l0-5RtQsE&feature=youtu.be" controls="controls" width="640" height="320" autoplay="autoplay">
-Your browser does not support the video tag.
-</video>
-
+<iframe height=498 width=510 src="https://www.youtube.com/watch?v=B_l0-5RtQsE&feature=youtu.be">
 
 ### 6.參考資料
 [https://kknews.cc/digital/lvo496e.html](https://kknews.cc/digital/lvo496e.html)<br>
