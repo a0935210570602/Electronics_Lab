@@ -1,6 +1,7 @@
-# dp2020s_term_project_OOP_Project_Dont_Starve
+# 全自動老闆偵測警報器
 ## <br>Team Members
  1.106820003 潘建蒼<br>
+ 1.106820038 林庭伃<br>
  2.106820046 凃昱安
  
 ## Problem Statement
