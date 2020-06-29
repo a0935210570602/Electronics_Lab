@@ -13,6 +13,7 @@
 及遊戲進行的重要關鍵所在。
 </pre>
 
+
 ### 2.何為Arduno
 <pre>
     Arduino Leonardo是基於ATmega32u4一個微控制器板。它有20個數字輸入/輸出引腳（其中7個可用於PWM輸出、12個可用於模擬輸入），一個
@@ -23,6 +24,7 @@
                               <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
                                              (圖一) Arduino Leonardo
 </pre>
+        
         
 ### 3.材料
 
@@ -36,11 +38,16 @@ RGB LED | 1個
 可變電阻  | 3個
 蜂鳴器  | 1個
 
+
 ### 4.電路設計
 <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
 
+
 ### 5.demo
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/w925GrVEajE/0.jpg)](https://www.youtube.com/watch?v=B_l0-5RtQsE&feature=youtu.be)
+
+
 ### 6.參考資料
 [https://kknews.cc/digital/lvo496e.html](https://kknews.cc/digital/lvo496e.html)<br>
-[https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0](https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0)
+[https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0](https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0)<br>
+[https://www.slideas.app/blog/how-to-embed-a-vimeo-or-youtube-video-in-markdown/](https://www.slideas.app/blog/how-to-embed-a-vimeo-or-youtube-video-in-markdown/)<br>
