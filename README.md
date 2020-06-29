@@ -35,7 +35,7 @@
 
 名稱           | 數量  
 :--------------:|:-----:
-Arduno  Leonardo  | 1個
+Arduino  Leonardo  | 1個
 超音波感測器    | 1個
 杜邦線  | 11條
 RGB LED | 1個
