@@ -40,7 +40,7 @@ RGB LED | 1個
 <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
 
 ### 5.demo
-<a href="https://www.youtube.com/watch?v=osyrE_9xBGg&feature=youtu.be""
+<a href="https://www.youtube.com/watch?v=osyrE_9xBGg&feature=youtu.be"
         " target="_blank"><img src="http://img.youtube.com/vi/w925GrVEajE/0.jpg" 
         alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
