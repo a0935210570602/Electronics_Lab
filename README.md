@@ -20,7 +20,7 @@
 它連接到計算機的USB接口，或者使用AC-DC適配器，再或者用電池來驅動它。
 
 
-    <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
+                        <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
                                              (圖一 Arduino Leonardo)
 </pre>
         
