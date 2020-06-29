@@ -21,7 +21,7 @@
 
 
                               <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
-                                             (圖一 Arduino Leonardo)
+                                             (圖一) Arduino Leonardo
 </pre>
         
 ### 3.材料
