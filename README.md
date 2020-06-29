@@ -15,11 +15,10 @@
 
 ### 2.何為Arduno
 <pre>
+    <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="80%" height="80%" />
     Arduino Leonardo是基於ATmega32u4一個微控制器板。它有20個數字輸入/輸出引腳（其中7個可用於PWM輸出、12個可用於模擬輸入），一個
 16 MHz的晶體振蕩器，一個Micro USB接口，一個DC接口，一個ICSP接口，一個復位按鈕。它包含了支持微控制器所需的一切，你可以簡單地通過把
 它連接到計算機的USB接口，或者使用AC-DC適配器，再或者用電池來驅動它。
-
-
 </pre>
         
 ### 3.材料
