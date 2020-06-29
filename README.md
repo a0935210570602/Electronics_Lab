@@ -9,7 +9,7 @@
     RPG(角色扮演)遊戲是一種遊戲類型，在遊戲中，玩家扮演虛擬世界中的一個或者幾個角色進行遊戲，玩家通過操控遊戲角色與敵人戰鬥，提升
 等級、收集裝備和完成遊戲設置的任務，並體驗劇情。通常這類遊戲都是由玩家扮演角色在遊戲世界中漫遊，而一路上的各種遭遇則是玩家人物成長
 及遊戲進行的重要關鍵所在。
-</pre>
+</pre><br>
 
 ## 2.何為Arduno
 <pre>
@@ -20,7 +20,7 @@
 
                               <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
                                              (圖一) Arduino Leonardo
-</pre>
+</pre><br>
         
 ## 3.材料
 
