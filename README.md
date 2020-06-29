@@ -49,7 +49,9 @@ RGB LED | 1個
 <pre></pre><br>
 
 ## 6.Sketch and ArduBlock
-<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
+<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/code.PNG" width="120%" height="120%" />
+<pre></pre><br>
+<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/arduBlock.PNG" width="120%" height="120%" />
 <pre></pre><br>
 
 ## 6.demo
