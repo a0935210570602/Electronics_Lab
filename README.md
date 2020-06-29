@@ -20,7 +20,7 @@
 它連接到計算機的USB接口，或者使用AC-DC適配器，再或者用電池來驅動它。
 
 
-                              <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="120%" height="120%" />
+                              <img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Arduno.jpg" width="40%" height="40%" />
                                              (圖一) Arduino Leonardo
 </pre>
         
@@ -37,7 +37,7 @@ RGB LED | 1個
 蜂鳴器  | 1個
 
 ### 4.電路設計
-<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="40%" height="40%" />
+<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
 
 ### 5.demo
 <pre>
