@@ -54,5 +54,5 @@ RGB LED | 1個
 </pre>
 
 ### 6.參考資料
-[https://kknews.cc/digital/lvo496e.html](https://kknews.cc/digital/lvo496e.html)<>
+[https://kknews.cc/digital/lvo496e.html](https://kknews.cc/digital/lvo496e.html)<br>
 [https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0](https://easyeda.com/editor?authenticate=force#id=588b2fc6eb914a76816edad05295735d|!03754f9d5f5745dfaa544d9984f19bb0)
