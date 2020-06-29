@@ -36,7 +36,8 @@ RGB LED | 1個
 <pre></pre><br>
 
 ## 4.電路設計
-<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" /><br>
+<img src="https://github.com/a0935210570602/Electronics_Lab/raw/master/Schematic_%E9%9B%BB%E5%AD%90%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A0%B1%E5%91%8A_2020-06-29_16-38-28.png" width="120%" height="120%" />
+<pre></pre><br>
 
 ## 5.demo
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/w925GrVEajE/0.jpg)](https://www.youtube.com/watch?v=B_l0-5RtQsE&feature=youtu.be)
